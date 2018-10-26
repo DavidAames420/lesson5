@@ -58,7 +58,7 @@
 
    var y = 'dean';
 
-   var name = 'sam'
+   var name = 'sam';
 
    var name = ''; //this string contains a value and type. the value is in the quotations.
 
